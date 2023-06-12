@@ -19,4 +19,4 @@ then replace the lib folder and pubspec.yaml file with mine
 
 
 ## Demo
-[![SuJzv.gif](https://s12.gifyu.com/images/SuJzv.gif)](https://gifyu.com/image/SuJzv)
+![Demo File](https://github.com/MusabNawab/ExpenseTracker/blob/main/demo/expensetracker.gif)
