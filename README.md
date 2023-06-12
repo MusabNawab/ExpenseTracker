@@ -21,4 +21,3 @@ then replace the lib folder and pubspec.yaml file with mine
 ## Demo
 
 [![SuGZ2.gif](https://s11.gifyu.com/images/SuGZ2.gif)](https://gifyu.com/image/SuGZ2)
-
